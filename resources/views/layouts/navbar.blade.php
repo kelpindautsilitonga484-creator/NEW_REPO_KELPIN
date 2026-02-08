@@ -10,7 +10,7 @@
             </li>
             <li>
                 <a href="/about" class="{{ request()->is('about') ? 'active' : '' }}">
-                    About
+                    Aboutttttt
                 </a>
             </li>
             <li>
